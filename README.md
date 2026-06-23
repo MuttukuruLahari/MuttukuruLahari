@@ -5,9 +5,9 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Java Backend Development**
-- 🌱 I’m learning **Data Structures & Algorithms (DSA), SQL, and System Design**
+- 🌱 I’m learning **Data Structures & Algorithms (DSA), SQL**
 - 💬 Ask me about **Java, JDBC, MySQL, DSA**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **lahari.deva95@gmail.com**
 - ⚡ Fun fact: I enjoy solving coding problems every day
 
 ---
@@ -39,8 +39,8 @@
 
 ## 🌐 Connect with me
 <p>
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> |
-  <a href="https://github.com/your-username">GitHub</a>
+  <a href="https://www.linkedin.com/in/m-lahari-646127281/">LinkedIn</a> |
+  <a href="https://github.com/MuttukuruLahari">GitHub</a>
 </p>
 
 ---
